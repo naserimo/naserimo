@@ -1,16 +1,3 @@
-## Hi there 👋
-
-<!--
-**naserimo/naserimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# 👋 Hi, I'm Mohammad Naseri
-
-🎓 Cyber Analyst Student @ Politecnico di Torino  
-💻 Passionate about Networking, Systems & Development  
-🚀 Always learning and building  
-
 <h1 align="center">Hi 👋, I'm Mohammad Naseri</h1>
 <h3 align="center">A passionate cyber Analyst</h3>
 
